@@ -1,23 +1,37 @@
-0x00. Webpack
-Front-end
-JavaScript
-ES6
+## 0x00. Webpack
+
+##Front-end
+
+##JavaScript
+
+#ES6
  Weight: 1
+ 
  Project will start Jul 22, 2024 6:00 AM, must end by Jul 23, 2024 6:00 AM
+ 
  Checker was released at Jul 22, 2024 12:00 PM
+ 
  An auto review will be launched at the deadline
 
 
-Resources
-Read or watch:
+## Resources
 
-Webpack documentation
-Webpack beginner guide
+##Read or watch:
+
+
+##Webpack documentation
+
+##Webpack beginner guide
+
 npm-package.json
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-How to setup Webpack for a basic project
+##Learning Objectives
+
+**At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+
+**How to setup Webpack for a basic project
+
 Entry points, output, and loaders
 How to add plugins
 How to split your code into chunks
