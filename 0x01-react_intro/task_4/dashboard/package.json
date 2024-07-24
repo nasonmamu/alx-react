@@ -1,5 +1,5 @@
 {
-	"homepage": "https://DreMukare.github.io/alx-react/0x01-react_intro/task_4/dashboard",
+	"homepage": "https://nasonmamu.github.io/alx-react/0x01-react_intro/task_4/dashboard",
 	"name": "dashboard",
 	"version": "0.1.0",
 	"private": true,
@@ -15,7 +15,7 @@
 	"scripts": {
 		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
-		"start": "react-scripts start",
+		"start": "react-scrigpts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
