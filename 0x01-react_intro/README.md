@@ -1,4 +1,4 @@
-0x01. React intro
+## 0x01. React intro
 Front-end
 JavaScript
 ES6
@@ -284,3 +284,4 @@ Repo:
 GitHub repository: alx-react
 Directory: 0x01-react_intro
 File: task_5/dashboard/config/setupTests.js, task_5/dashboard/package.json
+Copyright © 2024 ALX, All rights reserved.
